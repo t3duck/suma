@@ -4,6 +4,7 @@ public class suma {
     public static void main(String[] args) {
 
 
+
         int num1 = 2;
         int num2 = 2;
 
