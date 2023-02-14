@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41110ed9-1507-4e30-985f-ae8dfe79320d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main/guitar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jewel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/suma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/suma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/guitar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Guitar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +48,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -56,7 +63,8 @@
       <updated>1675862419847</updated>
       <workItem from="1675862420969" duration="3167000" />
       <workItem from="1675950053321" duration="593000" />
-      <workItem from="1676295213613" duration="465000" />
+      <workItem from="1676295213613" duration="3007000" />
+      <workItem from="1676379948253" duration="2827000" />
     </task>
     <servers />
   </component>
